@@ -40,7 +40,7 @@ var IsEnabled = {
     
     trackMenu: true,
 
-    wellnessQuizPage: false,
+    wellnessQuizPage: true,
     
     meditationPage: true,
     
